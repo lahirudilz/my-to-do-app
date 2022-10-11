@@ -50,7 +50,7 @@ const New: React.FC = () => {
             <div className="inputContainer">
               <div>
                 <Input
-                  style={{ width: 400, margin: "10px" }}
+                  style={{ width: 500, margin: "10px" }}
                   type="text"
                   name="task"
                   placeholder="Add a task"
